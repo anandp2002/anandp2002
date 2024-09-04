@@ -1,4 +1,4 @@
-# About Me ✨
+# About Me
 Hello 🙋‍♂️, My name is Anand P, and I am a passionate MERN stack developer.<br>B.Tech in Computer Science and Engineering 👨🏻‍💻 (2024)
 
 
