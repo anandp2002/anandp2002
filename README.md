@@ -2,7 +2,7 @@
 Hello🙋‍♂️, My name is Anand P, and I am a passionate MERN stack developer.<br>B.Tech in Computer Science and Engineering 👨🏻‍💻 (2024)
 
 
-# 🌐 Socials
+# 🌐 Socials 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anandp__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-p-18894a219/) 
 
 # 💻 Tech Stacks
